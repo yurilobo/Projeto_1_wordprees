@@ -1,0 +1,406 @@
+# Translation of Themes - Consultup in Portuguese (Brazil)
+# This file is distributed under the same license as the Themes - Consultup package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-20 14:27:09+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt_BR\n"
+"Project-Id-Version: Themes - Consultup\n"
+
+#. Theme Name of the theme
+#: lib/theme-option/view-general.php:13
+msgid "Consultup"
+msgstr "Consultup"
+
+#: searchform.php:3
+msgctxt "placeholder"
+msgid "Search"
+msgstr "Busca"
+
+#: 404.php:29
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Lamentamos, mas a página que você está procurando não existe."
+
+#: functions.php:168
+msgid "Sidebar Widget Area"
+msgstr "Área de widget da barra lateral"
+
+#: inc/icy/customize/consultup_customize_copyright.php:180
+msgid "Background Image"
+msgstr "Imagem de fundo"
+
+#: inc/icy/customize/consultup_customize_header.php:258
+#: inc/icy/customize/consultup_customize_header.php:302
+msgid "Description"
+msgstr "Descrição"
+
+#: inc/icy/customize/consultup_customize_header.php:246
+#: inc/icy/customize/consultup_customize_header.php:290
+msgid "Title"
+msgstr "Título"
+
+#: inc/icy/customize/consultup_customize_header.php:35
+#: inc/icy/customize/consultup_customize_header.php:58
+msgid "Text"
+msgstr "Texto"
+
+#: inc/icy/customize/consultup_customize_header.php:24
+#: inc/icy/customize/consultup_customize_header.php:47
+#: inc/icy/customize/consultup_customize_header.php:234
+#: inc/icy/customize/consultup_customize_header.php:278
+msgid "Icon"
+msgstr "Ícone"
+
+#: inc/icy/customize/consultup_customize_header.php:82
+#: inc/icy/customize/consultup_customize_copyright.php:28
+msgid "Hide / Show"
+msgstr "Ocultar / Mostrar"
+
+#: search.php:27
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Nada coincide com seus critérios de busca. Tente outra vez com palavras-chave diferentes."
+
+#: search.php:25
+msgid "Nothing Found"
+msgstr "Nenhum resultado"
+
+#: inc/icy/customize/consultup_customize_header.php:322
+msgid "Button Text"
+msgstr "Texto do botão"
+
+#. translators: %s: search term
+#: search.php:20
+msgid "Search Results for: %s"
+msgstr "Resultados da pesquisa por: %s"
+
+#: content.php:56
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: functions.php:66
+msgid "Social Links Menu"
+msgstr "Menu de links sociais"
+
+#: comments.php:60 comments.php:81
+msgid "Newer Comments"
+msgstr "Comentários mais recentes"
+
+#: comments.php:59 comments.php:80
+msgid "Older Comments"
+msgstr "Comentários mais antigos"
+
+#: comments.php:92
+msgid "Comments are closed."
+msgstr "Os comentários estão desativados."
+
+#: 404.php:15
+msgid "404"
+msgstr "404"
+
+#: 404.php:27
+msgid "4"
+msgstr "4"
+
+#: 404.php:30
+msgid "Go Back"
+msgstr "Voltar"
+
+#. translators: placeholder replaced with string
+#: footer.php:45
+msgid "https://themeansar.com/"
+msgstr "https://themeansar.com/"
+
+#: content.php:48
+msgid "by"
+msgstr "por"
+
+#: lib/theme-option/class-consultup-admin-settings.php:432
+msgid "Lite Demo"
+msgstr "Demo da versão Lite"
+
+#: lib/theme-option/class-consultup-admin-settings.php:389
+msgid "Sidebar Options"
+msgstr "Opções de barra lateral"
+
+#: lib/theme-option/class-consultup-admin-settings.php:383
+msgid "Set Colors"
+msgstr "Definir cores"
+
+#: lib/theme-option/class-consultup-admin-settings.php:323
+msgid "Learn More"
+msgstr "Saiba mais"
+
+#: lib/theme-option/class-consultup-admin-settings.php:295
+msgid "Install Plugin"
+msgstr "Instalar plugin"
+
+#: lib/theme-option/class-consultup-admin-settings.php:147
+msgid "consultup"
+msgstr "consultup"
+
+#: lib/theme-option/class-consultup-admin-settings.php:146
+msgid "Consultup Options"
+msgstr "Opções de Consultup"
+
+#. translators: %s theme name
+#: lib/theme-option/class-consultup-admin-settings.php:48
+msgid "Get started with %s"
+msgstr "Comece com %s"
+
+#: inc/icy/customize-pro/class-customize.php:65
+msgid "Go Pro"
+msgstr "Torne-se Pro"
+
+#: inc/icy/customizer-notify/consultup-customizer-notify.php:111
+msgid "Activating"
+msgstr "Ativando"
+
+#: inc/icy/customize/plugin_recommend.php:17
+msgid "Deactivate"
+msgstr "Desativar"
+
+#: inc/icy/customize/consultup_customize_header.php:334
+msgid "Button Link"
+msgstr "Link do botão"
+
+#: inc/icy/customize/consultup_customize_header.php:200
+#: inc/icy/customize/consultup_customize_copyright.php:143
+msgid "Instagram URL"
+msgstr "URL do Instagram"
+
+#: inc/icy/customize/consultup_customize_header.php:167
+#: inc/icy/customize/consultup_customize_copyright.php:110
+msgid "Linkedin URL"
+msgstr "URL do LinkedIn"
+
+#: inc/icy/customize/consultup_customize_header.php:135
+#: inc/icy/customize/consultup_customize_copyright.php:78
+msgid "Twitter URL"
+msgstr "URL do Twitter"
+
+#: inc/icy/customize/consultup_customize_header.php:118
+#: inc/icy/customize/consultup_customize_header.php:151
+#: inc/icy/customize/consultup_customize_header.php:183
+#: inc/icy/customize/consultup_customize_header.php:216
+#: inc/icy/customize/consultup_customize_header.php:347
+#: inc/icy/customize/consultup_customize_copyright.php:61
+#: inc/icy/customize/consultup_customize_copyright.php:94
+#: inc/icy/customize/consultup_customize_copyright.php:126
+#: inc/icy/customize/consultup_customize_copyright.php:159
+msgid "Open link in a new tab"
+msgstr "Abrir link em nova aba"
+
+#: inc/icy/customize/consultup_customize_header.php:102
+#: inc/icy/customize/consultup_customize_copyright.php:45
+msgid "Facebook URL"
+msgstr "URL do Facebook"
+
+#: inc/icy/customize/consultup_customize_header.php:9
+msgid "Header Settings"
+msgstr "Configurações do cabeçalho"
+
+#: footer.php:36
+msgid "https://wordpress.org/"
+msgstr "https://br.wordpress.org/"
+
+#: inc/icy/customize/consultup_customize_copyright.php:6
+msgid "Footer Settings"
+msgstr "Opções do rodapé"
+
+#: header.php:92 header.php:158
+msgid "Toggle Navigation"
+msgstr "Alternar navegação"
+
+#: inc/icy/customize/plugin_recommend.php:16
+msgid "Activate"
+msgstr "Ativar"
+
+#: inc/icy/customize/plugin_recommend.php:14
+msgid "Recommended Plugin"
+msgstr "Plugins recomendados"
+
+#: inc/icy/customize/plugin_recommend.php:13
+msgid "Recommended Actions"
+msgstr "Ações recomendadas"
+
+#: inc/icy/customize/consultup_customize_home.php:8
+msgid "Homepage section settings"
+msgstr "Configurações da seção da página inicial"
+
+#: inc/icy/customize/consultup_customize_copyright.php:209
+msgid "Footer social icon"
+msgstr "Menu de redes sociais do rodapé"
+
+#. translators: %s: post title
+#: comments.php:33
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Um comentário sobre &ldquo;%s&rdquo;"
+
+#: content.php:55
+msgid "Read More"
+msgstr "Leia mais"
+
+#: single.php:64
+msgid "By"
+msgstr "Por"
+
+#: 404.php:28
+msgid "Oops! Page not found"
+msgstr "Opa! Página não encontrada"
+
+#: comments.php:56 comments.php:77
+msgid "Comment navigation"
+msgstr "Navegação entre comentários"
+
+#: lib/theme-option/class-consultup-admin-settings.php:434
+msgid "Pro Demo"
+msgstr "Demo da versão Pro"
+
+#: functions.php:65
+msgid "Primary menu"
+msgstr "Menu principal"
+
+#: functions.php:178
+msgid "Footer Widget Area"
+msgstr "Área de widget do rodapé"
+
+#: lib/theme-option/class-consultup-admin-settings.php:395
+msgid "Social Icon"
+msgstr "Ícones social"
+
+#: lib/theme-option/class-consultup-admin-settings.php:378
+msgid "Upload Logo"
+msgstr "Enviar logo"
+
+#: lib/theme-option/class-consultup-admin-settings.php:355
+msgid "Submit Ticket"
+msgstr "Enviar um ticket"
+
+#. translators: %1$s: theme name, %2$s link
+#: lib/theme-option/class-consultup-admin-settings.php:40
+msgid "Visit consultup page to take full advantage of theme."
+msgstr "Visite a página da Consultup para aproveitar todas as vantagens do tema."
+
+#. translators: placeholder replaced with string
+#: footer.php:45
+msgid "Theme: %1$s by %2$s."
+msgstr "Tema: %1$s por %2$s."
+
+#. translators: placeholder replaced with string
+#: footer.php:39
+msgid "Proudly powered by %s"
+msgstr "Orgulhosamente desenvolvido por %s"
+
+#: lib/theme-option/class-consultup-admin-settings.php:492
+msgid "Easy to use, Fully Customizable, Unique options"
+msgstr "Fácil de usar, totalmente personalizável, opções únicas"
+
+#: lib/theme-option/class-consultup-admin-settings.php:428
+msgid "Consultup Usefull Links"
+msgstr "Consultup links úteis"
+
+#: lib/theme-option/class-consultup-admin-settings.php:346
+msgid "Customer Support"
+msgstr "Suporte ao cliente"
+
+#: lib/theme-option/class-consultup-admin-settings.php:327
+msgid "Want to know how it works, take a look on this and get whole knowledge about consultup. Learn consultup"
+msgstr "Quer saber como funciona? Dê uma olhada nisso e obtenha todo o conhecimento sobre consultup. Aprenda sobre consultup"
+
+#: inc/icy/customize/plugin_recommend.php:15
+msgid "Install and Activate"
+msgstr "Instalar e ativar"
+
+#: inc/icy/customize/consultup_customize_copyright.php:203
+msgid "Select Column Layout"
+msgstr "Selecione o layout da coluna"
+
+#: inc/icy/customize/consultup_customize_header.php:13
+msgid "Header Top Bar Setting"
+msgstr "Configurações da barra superior do cabeçalho"
+
+#: lib/theme-option/class-consultup-admin-settings.php:438
+msgid "Premium Support"
+msgstr "Suporte premium"
+
+#: lib/theme-option/class-consultup-admin-settings.php:436
+msgid "Your Feedback"
+msgstr "Seu comentário"
+
+#: lib/theme-option/class-consultup-admin-settings.php:409
+msgid "Visit to Customizer Settings:"
+msgstr "Visite configurações do personalizador:"
+
+#: lib/theme-option/class-consultup-admin-settings.php:401
+msgid "Site Button"
+msgstr "Botão do site"
+
+#: lib/theme-option/class-consultup-admin-settings.php:369
+#: lib/theme-option/class-consultup-admin-settings.php:446
+msgid "Get More Options with Consultup Pro!"
+msgstr "Tenha mais opções com Consultup Pro!"
+
+#: lib/theme-option/class-consultup-admin-settings.php:329
+msgid "Visit Us"
+msgstr "Visite-nos"
+
+#: lib/theme-option/class-consultup-admin-settings.php:306
+msgid "Go to Cutomizer Panel"
+msgstr "Vá para o painel de personalização"
+
+#: lib/theme-option/class-consultup-admin-settings.php:302
+msgid "Click the below button and install ICYCLUB plugin in customizer Setting for full advatages frontpage and many other theme feature"
+msgstr "Clique no botão abaixo e instale o plugin ICYCLUB no personalizador configuração para frontage completo e muitos outros recursos de tema"
+
+#: lib/theme-option/class-consultup-admin-settings.php:174
+msgid "Welcome"
+msgstr "Boas-vindas"
+
+#. translators: %1$s: theme name, %2$s theme version
+#: lib/theme-option/class-consultup-admin-settings.php:34
+msgid "Thanks For Choosing %1$s - Version %2$s"
+msgstr "Grato por escolher %1$s - versão %2$s"
+
+#: inc/icy/customize-pro/class-customize.php:64
+msgid "Consultup Pro Available!"
+msgstr "Consultup Pro disponível!"
+
+#: inc/icy/customize/consultup_customize_copyright.php:187
+msgid "Footer widget column layout"
+msgstr "Layout da coluna do widget do rodapé"
+
+#: inc/icy/customize/consultup_customize_copyright.php:166
+msgid "Footer background setting"
+msgstr "Configurações de fundo do rodapé "
+
+#: inc/icy/customize/consultup_customize_copyright.php:10
+msgid "Footer social icon settings"
+msgstr "Configurações do ícone social do rodapé"
+
+#: inc/icy/customize/consultup_customize_header.php:309
+msgid "Header Widget Three Setting"
+msgstr "Terceira configuração de widget do cabeçalho "
+
+#: inc/icy/customize/consultup_customize_header.php:266
+msgid "Header Widget Two Setting"
+msgstr "Segunda configuração de widget do cabeçalho "
+
+#: inc/icy/customize/consultup_customize_header.php:222
+msgid "Header Widget One Setting"
+msgstr "Primeira configuração de widget do cabeçalho "
+
+#: inc/icy/customize/consultup_customize_header.php:64
+msgid "Header Social Icon Settings"
+msgstr "Configurações do ícone social do cabeçalho"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:38
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s comentário em &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s comentários em &ldquo;%2$s&rdquo;"
